@@ -7,8 +7,8 @@
 V1:A0B1C0D1E0F1G1H1:A0B0C0D0E0F1G1H0
 
 ### Permissions to be Passed.Same format when returned from compact permission Object ###
-Research Permissions:
-Everyone:No
+Research Permissions:\n
+Everyone:No\n
 Not-for-profit:Yes
 Shivom-Researchers:No
 For-profit:Yes
