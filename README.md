@@ -1,12 +1,12 @@
-## PermissionContract ##
+# PermissionContract
 
-### Version fromat ###
+#### Version fromat
 "A Everyone:B Not-for-profit:C Shivom-Researchers:D For-profit:E Patient-Support-Groups:F Government-Agencies:G Healthcare-Providers:H Solution-Providers";
 
-### How Permissions are stored ###
+#### How Permissions are stored
 V1:A0B1C0D1E0F1G1H1:A0B0C0D0E0F1G1H0
 
-### Permissions to be Passed.Same format when returned from compact permission Object ###
+#### Permissions to be Passed.Same format when returned from compact permission Object
 Research Permissions:
 Everyone:No
 Not-for-profit:Yes
