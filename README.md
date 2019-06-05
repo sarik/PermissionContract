@@ -1,6 +1,6 @@
 # PermissionContract
 
-#### Version fromat
+#### Version format
 "A Everyone:B Not-for-profit:C Shivom-Researchers:D For-profit:E Patient-Support-Groups:F Government-Agencies:G Healthcare-Providers:H Solution-Providers";
 
 #### How Permissions are stored
